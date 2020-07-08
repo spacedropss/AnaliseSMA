@@ -1,3 +1,5 @@
+Desenvolvido por Ricardo Arend
+
 # CatchPig
   
   CatchPig is a Multi-Agent application based on Jade a Framework for Java.
