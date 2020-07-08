@@ -1,0 +1,8 @@
+To run this model you need change the project execution properties to the folow: 
+
+ Main class: jade.Boot
+ 
+ Arguments: -gui fazendeiroUm:Main.FarmerOne;fazendeiro2:Main.FarmerTwo;Porco:Main.PigAgent
+ 
+ 
+
